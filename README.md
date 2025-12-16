@@ -1,16 +1,17 @@
-## Hi there 👋
+#### Hey there! I'm Kerr Tan 👋
 
-<!--
-**Kerrk07/Kerrk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- Second-year Master's student in **Data Science** at [New York University](https://cds.nyu.edu/masters-in-data-science-financial-aid-fellowships/#:~:text=Shuen%20(Kerr)%20Tan%2C%20CDS%20Pathbreaker%20Scholar%2C%202024%2D2025)
+- Hope to work on generative models to blend art and tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Let's Connect
+
+Feel free to reach out or explore my work!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerr-tan/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](kerrtan.work@gmail.com)
+
+
