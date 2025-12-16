@@ -1,5 +1,5 @@
 #### Hey there! I'm Kerr Tan 👋
------------------------------------------------------------
+
 ### About Me
 
 - Second-year Master's student in **Data Science** at [New York University](https://cds.nyu.edu/masters-in-data-science-financial-aid-fellowships/#:~:text=Shuen%20(Kerr)%20Tan%2C%20CDS%20Pathbreaker%20Scholar%2C%202024%2D2025)
